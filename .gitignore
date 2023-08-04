@@ -1,0 +1,4 @@
+/src/.ipynb_checkpoints
+/venv
+.virtual_documents
+.DS_Store
